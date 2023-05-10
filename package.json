@@ -1,0 +1,16 @@
+{
+  "name": "local-testsapril",
+  "version": "1.0.0",
+  "description": "Cypress Playwright",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy.run": "cypress run"
+  },
+  "keywords": [],
+  "author": "Di",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.10.0"
+  }
+}
